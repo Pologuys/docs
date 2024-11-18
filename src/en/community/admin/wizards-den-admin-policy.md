@@ -32,6 +32,8 @@ Administrators must listen to what they deem a reasonable request by a head admi
 
 - Being told to stop orbiting what you believe is a potential Raider is not reasonable.
 
+#### 1.7 Administrators must follow Discord and Server Rules.
+Goobstation Administrators must follow the Goobstation Discord server rules at all time, if you see someone violate a rule, you should either warn them or time them out for a select amount of time. Administrators are expected to not break any server rules while deadminned or adminned.
 ####
 ## 2. Game-adminning
 Rules specific to adminning a round of SS14.
