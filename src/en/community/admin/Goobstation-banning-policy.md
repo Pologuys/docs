@@ -135,7 +135,7 @@ Any player who requests to be banned from a department or from the server may be
 | Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
 | Metagaming | IC in OOC[^positiveException] | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Powergaming | Preparing items not needed IC | W | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB |
-| Self-antag | Self-antag[^excludingEscalationIssues] | W - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
+| Self-antag | Self-antag[^excludingEscalationIssues] | W - 1d GB | 2d - 4d GB | **14d** - 16d GB | Indef GB |
 | Self-antag | Station sabotage[^stationSabotage] | W - 3d GB | 12hr - 7d GB | 14d - 15d GB | |
 | Self-antag | Cults/riots/revolutions | **12hr** - 3d GB | 12hr - **3d** - 7d GB | **7d** - 7.5d GB | |
 | Self-antag | Cooperating with known antags | 12hr GB | 3d GB | **7d** - 7.5d GB | |
@@ -149,7 +149,7 @@ Any player who requests to be banned from a department or from the server may be
 | Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** - 7.5d GB | |
 | Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d - 15d GB | |
 | Escalation | Over escalation[^eachVictim] | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Escalation | RDM[^eachVictim] | **24hr** - 3d GB | 5d GB | **9d** - 9.5d GB | |
+| Escalation | RDM[^eachVictim] | **1d** - 3d GB | 5d GB | **9d** - 9.5d GB | Indef GB |
 | Escalation | Over escalation or RDM that is a secondary result of station sabotage[^stationSabotageRDM] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
 | Competence | Unreasonable incompetence in Security | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Engineering | W - **4d** - 8d RB | 8 - 15d RB | Indef RB | |
