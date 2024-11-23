@@ -45,8 +45,8 @@ Even if you've started adminning after dying, do not process a case you were inv
 Bans and ban appeals are covered by the [Banning Policy](./wizards-den-banning-policy.md).
 #### 2.3 **Superseded by banning policy**
 Bans and ban appeals are covered by the [Banning Policy](./wizards-den-banning-policy.md).
-#### 2.4 **Deadmin when you play the game, do not play a round while you are the only administrator online.**
-Do not play a round while you are the only admin online, this includes selecting ghostroles or spawning yourself in, you should be admin ghosted at all times. Don't misuse your game admin tools to metagame, this is pretty self-explanatory. Do not use your admin powers to message players whilst IC. If something happens that breaks the rules, you should engage with admins as a normal player via the regular ahelp command. Exceptions to this are:
+#### 2.4 **Deadmin when you play the game, do not play multiple rounds while you are the only administrator online.**
+Do not play multiple rounds, such as 2 or 3 in a row, while you are the only admin online, this includes selecting ghostroles or spawning yourself in, you should be admin ghosted at all times. Don't misuse your game admin tools to metagame, this is pretty self-explanatory. Do not use your admin powers to message players whilst IC. If something happens that breaks the rules, you should engage with admins as a normal player via the regular ahelp command. Exceptions to this are:
 
 - You may start adminning a round after you have died. Do note that policy 2.1 still applies!
 - You may use admintools when running adminevents if necessary, even if you are playing a character for it.
