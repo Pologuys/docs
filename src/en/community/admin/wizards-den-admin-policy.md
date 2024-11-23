@@ -16,7 +16,7 @@ This *does* pertain to any information posted in the game admin Discord chats, i
 #### 1.4 **Ban Appeals**
 Ban appeals are covered by the [Banning Policy](./wizards-den-banning-policy.md).
 #### 1.5 **Administrators must use their powers in moderation**
-The Administration team must use their powers in moderation ensuring that they do not attempt to abuse obstacles set in place by higher ranks, you will need permission before doing so, in cases of utmost emergency while no game admins+ are online. This also covers commands such as Customvote, and so forth.
+The Administration team must use their powers in moderation ensuring that they do not attempt to abuse obstacles set in place by higher ranks, you will need permission before doing so, in cases of utmost emergency while no game admins+ are online. This also covers commands such as Customvote, and so forth. This includes not giving items to yourself, such as rare in game items like goobcoin.
 #### 1.6 **Administrators will be held responsible for their actions.**
 Administrators are **not unaccountable**, and should be held to higher standards than the playerbase, an administrator should be banned or noted as a normal player, and there should be no bias in defense of the admin. If you have a problem with an admin's behavior, discuss with the head admin. All administrators are expected to have a solid reason behind their actions.
 
