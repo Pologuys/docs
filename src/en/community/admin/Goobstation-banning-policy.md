@@ -151,6 +151,7 @@ Any player who requests to be banned from a department or from the server may be
 | Escalation | Over escalation[^eachVictim] | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Escalation | RDM[^eachVictim] | **1d** - 3d GB | 5d GB | **9d** - 9.5d GB | Indef GB |
 | Escalation | Over escalation or RDM that is a secondary result of station sabotage[^stationSabotageRDM] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
+| Competence | Unreasonable incompetence in Command | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Security | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Engineering | W - **4d** - 8d RB | 8 - 15d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Medical | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
