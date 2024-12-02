@@ -63,14 +63,3 @@ Bans and ban appeals are covered by the [Banning Policy](./wizards-den-banning-p
 If a player is AHelped for some behavior, but this behavior skirts the rules and is not explicitly bannable, you should always give them a note for it. When handling AHelps, you should always check their notes before interrogation or applying punishment. If a user is noted to have been skirting the rules multiple times previously in their notes, you may apply a ban for this behavior.
 #### 2.9 **Monitor admin helps when online, leave if you have to go AFK for extended periods of time.**
 An administrator should always make an attempt to monitor active admin helps, if you are aware you will go AFK for an extended amount of time of 15-20+ minutes, disconnect so the panic bunker enables. 
-
-## 3. Head Admin Policy
-
-#### 3.1 **Hold vote / discussion threads for all major decisions made**
-In discord, just make a new private thread and ping game admins. If it's related to trialmin promotion/accepting, remove all current trialmins from the thread. Not all of them need to be votes, and votes can often hamper actual discussion, but they should always be done. Some discretion is given on what counts as a 'major' enough decision to warrant a thread.
-
-#### 3.2 **Vote threads relating to admins in Discord should always be archived/locked after the fact**
-Any information that needs to be long-term from these should be outside of the thread.
-
-#### 3.3 **Attempts should be made to further discussion on ban appeals older than one week**
-Don't have to forcibly come to agreement on them, but its the headmin's job to ensure that some discussion gets started on these. The actual discussion and specific decision making can be delegated to others obviously but the headmin is working in a managerial position here.
